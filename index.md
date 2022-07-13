@@ -7,6 +7,10 @@ For the time being, please visit my repo of my Bootcamp projects:
 
 [![Springboard Logo](/photos/Springboard-logo-dark.jpg)](https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}
 
+
+My project on laptop pricing models can be found here:
+[![Laptop Price Model](/photos/laptop_images.jpg)](https://github.com/naturesbless/LaptopPriceModeling){:target="_blank"}
+
 <!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
