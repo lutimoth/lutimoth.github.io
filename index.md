@@ -5,8 +5,7 @@ Thank you for your patience as I build up my data science portfolio on this webs
 
 For the time being, please visit my repo of my Bootcamp projects:
 
-<button name="button" onclick="location.href = 'https://github.com/naturesbless/SpringboardMay2022' ">Bootcamp Repo</button>
-
+[![Springboard Logo](/photos/Springboard-logo-dark.jpg)](https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}
 
 <!-- ### Markdown
 
