@@ -7,7 +7,8 @@ Currently, this website is being built and will eventually feature my projects. 
 
 ## Projects
 I have worked on the following projects:
-- Laptop Regression Analysis
+- [Laptop Regression Analysis](https://github.com/naturesbless/LaptopPriceModeling)
+- [Forecasting Tourism and Accomodations Data for New Zealand](https://github.com/naturesbless/Tourism-Forecasting)
 - More to come!
 
 ## Contact Info
