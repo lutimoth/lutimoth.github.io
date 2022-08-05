@@ -5,7 +5,10 @@ Thank you for your patience as I build up my data science portfolio on this webs
 
 For the time being, please visit my repo of my Bootcamp projects:
 
-[![Springboard Logo](/photos/Springboard-logo-dark.jpg)](https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}
+My project on Time Series Analysis for tourism and accomodations data in New Zealand:
+[![New Zealand Banner](
+
+[![Springboard Logo](/photos/new_zealand_banner.png)](https://github.com/naturesbless/Tourism-Forecasting){:target="_blank"}
 
 
 My project on laptop pricing models can be found here:
