@@ -1,14 +1,14 @@
 <button name="button" onclick="location.href = 'https://naturesbless.github.io/about' ">About me</button>
 
 ## Work in Progress Portfolio!
-Thank you for your patience as I build up my data science portfolio on this website!
-
-For the time being, please visit my repo of my Bootcamp projects:
+Thank you for your patience as I build up my data science portfolio on this website! 
 
 My project on Time Series Analysis for tourism and accomodations data in New Zealand:
 [![New Zealand Banner](/photos/new_zealand_banner.png)](https://github.com/naturesbless/Tourism-Forecasting){:target="_blank"}
 
-[![Springboard Logo](/photos/Springboard-Logo-dark.jpg)](https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}
+
+My work during my bootcamp!:
+[![Springboard Logo](/photos/Springboard-logo-dark.jpg)](https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}
 
 
 My project on laptop pricing models can be found here:
