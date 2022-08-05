@@ -7,7 +7,7 @@ My project on Time Series Analysis for tourism and accomodations data in [New Ze
 [![New Zealand Banner](/photos/new_zealand_banner.png)](https://github.com/naturesbless/Tourism-Forecasting){:target="_blank"}
 
 
-My work during my [bootcamp!](https://github.com/naturesbless/SpringboardMay2022):
+My work during my [bootcamp](https://github.com/naturesbless/SpringboardMay2022):
 [![Springboard Logo](/photos/Springboard-logo-dark.jpg)](https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}
 
 
