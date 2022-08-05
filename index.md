@@ -3,15 +3,15 @@
 ## Work in Progress Portfolio!
 Thank you for your patience as I build up my data science portfolio on this website! 
 
-My project on Time Series Analysis for tourism and accomodations data in New Zealand:
+My project on Time Series Analysis for tourism and accomodations data in [New Zealand](https://github.com/naturesbless/Tourism-Forecasting):
 [![New Zealand Banner](/photos/new_zealand_banner.png)](https://github.com/naturesbless/Tourism-Forecasting){:target="_blank"}
 
 
-My work during my bootcamp!:
+My work during my [bootcamp!](https://github.com/naturesbless/SpringboardMay2022):
 [![Springboard Logo](/photos/Springboard-logo-dark.jpg)](https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}
 
 
-My project on laptop pricing models can be found here:
+My project on laptop pricing models can be found [here](https://github.com/naturesbless/LaptopPriceModeling):
 [![Laptop Price Model](/photos/laptop_images.jpg)](https://github.com/naturesbless/LaptopPriceModeling){:target="_blank"}
 
 <!-- ### Markdown
