@@ -3,4 +3,4 @@ title: Timothy Lu's Portfolio
 description: Work in Progress on my Data Science Portfolio!
 github:
   is_project_page: false
-plugins: jekyll-include-cache
+plugins: [jekyll-include-cache]
