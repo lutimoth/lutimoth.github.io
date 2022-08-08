@@ -1,4 +1,4 @@
-## Work in Progress Portfolio!
+
 Thank you for your patience as I build up my data science portfolio on this website! 
 
 My project on Time Series Analysis for tourism and accomodations data in [New Zealand](https://github.com/naturesbless/Tourism-Forecasting):
