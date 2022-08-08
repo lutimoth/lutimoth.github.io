@@ -1,5 +1,3 @@
-<button name="button" onclick="location.href = 'https://naturesbless.github.io/about' ">About me</button>
-
 ## Work in Progress Portfolio!
 Thank you for your patience as I build up my data science portfolio on this website! 
 
