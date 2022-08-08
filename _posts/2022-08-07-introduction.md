@@ -1,11 +1,11 @@
 ---
-title: "Post: Link"
+title: "Welcome to my Blog!"
 categories:
   - Blog
 tags:
-  - link
-  - Post Formats
-link: https://github.com
+  - General
+link: https://naturesbless.github.io/blog/introduction/
+
 ---
 
 # Welcome!
