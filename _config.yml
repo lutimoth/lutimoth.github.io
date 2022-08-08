@@ -48,7 +48,7 @@ author:
   bio    : "Data scientist exploring data through machine learning and mathetmatics!"
   links:
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/timothy-lu/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -63,7 +63,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/timothy-lu/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
