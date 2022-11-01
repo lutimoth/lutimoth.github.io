@@ -1,6 +1,6 @@
 <style>
   h1 {
-  color = green;
+  "color" = "green";
   }
 </style>
 <h1> Welcome! </h1>
