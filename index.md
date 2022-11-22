@@ -1,7 +1,7 @@
 <style>
   .image {
   display: flex;
-  place-items: center;
+  align-items: center;
   }
   
   h1 {
