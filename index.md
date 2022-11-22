@@ -4,7 +4,11 @@
   }
 </style>
 <h1> Welcome! </h1>
-Thank you for your patience as I build up my data science portfolio on this website! 
+Thank you for your patience as I build up my data science portfolio on this website!
+
+I have a second portfolio page focusing on my [Python projects](https://naturesbless.github.io/100_Days_Python_Portfolio/). It is more focused on general python concepts:
+[![Python Projects](/photos/Python-logo-notext.svg.png)](https://naturesbless.github.io/100_Days_Python_Portfolio/){:target="_blank"}
+
 
 My project on Time Series Analysis for tourism and accomodations data in [New Zealand](https://github.com/naturesbless/Tourism-Forecasting):
 [![New Zealand Banner](/photos/new_zealand_banner.png)](https://github.com/naturesbless/Tourism-Forecasting){:target="_blank"}
