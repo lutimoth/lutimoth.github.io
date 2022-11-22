@@ -7,7 +7,7 @@
 Thank you for your patience as I build up my data science portfolio on this website!
 
 I have a second portfolio page focusing on my [Python projects](https://naturesbless.github.io/100_Days_Python_Portfolio/). It is more focused on general python concepts:
-[![Python Projects](/photos/Python-logo-notext.svg.png =200x200)](https://naturesbless.github.io/100_Days_Python_Portfolio/){:target="_blank"}
+<img src="photos/Python-logo-notext.svg.png" width=200 height=200>https://naturesbless.github.io/100_Days_Python_Portfolio/){:target="_blank"}
 
 
 My project on Time Series Analysis for tourism and accomodations data in [New Zealand](https://github.com/naturesbless/Tourism-Forecasting):
