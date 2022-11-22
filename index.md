@@ -1,6 +1,7 @@
 <style>
   .image {
   display: flex;
+  flex: 1 1 auto;
   justify-content: center;
   }
   
