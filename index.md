@@ -7,17 +7,17 @@
 Thank you for your patience as I build up my data science portfolio on this website!
 
 I have a second portfolio page focusing on my [Python projects](https://naturesbless.github.io/100_Days_Python_Portfolio/). It is more focused on general python concepts:
-<img src="photos/Python-logo-notext.svg.png" width=200 height=200>https://naturesbless.github.io/100_Days_Python_Portfolio/){:target="_blank"}
+<a href="https://naturesbless.github.io/100_Days_Python_Portfolio/"><img src="photos/Python-logo-notext.svg.png" width=200 height=200></a>
 
 
 My project on Time Series Analysis for tourism and accomodations data in [New Zealand](https://github.com/naturesbless/Tourism-Forecasting):
-<img src="photos/new_zealand_banner.png height=200">(https://github.com/naturesbless/Tourism-Forecasting){:target="_blank"}
+<a href="https://github.com/naturesbless/Tourism-Forecasting"><img src="photos/new_zealand_banner.png" height=200></a>
 
 My project on laptop pricing models can be found [here](https://github.com/naturesbless/LaptopPriceModeling):
-<img src="photos/laptop_images.jpg width=200 height=200" >(https://github.com/naturesbless/LaptopPriceModeling){:target="_blank"}
+<a href="https://github.com/naturesbless/LaptopPriceModeling><img src="photos/laptop_images.jpg" width=200 height=200></a>
 
 My work during my [bootcamp](https://github.com/naturesbless/SpringboardMay2022):
-<img src="photos/Springboard-logo-dark.jpg height=200">(https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}
+<a href="https://github.com/naturesbless/SpringboardMay2022><img src="photos/Springboard-logo-dark.jpg" height=200></a>
 
 
 
