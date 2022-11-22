@@ -25,7 +25,7 @@ My project on Time Series Analysis for tourism and accomodations data in [New Ze
 My project on laptop pricing models can be found [here](https://github.com/naturesbless/LaptopPriceModeling):
 
 <div class=image>
-<a href="https://github.com/naturesbless/LaptopPriceModeling"><img src="photos/laptop_images.jpg" height=250></a>
+<a href="https://github.com/naturesbless/LaptopPriceModeling"><img src="photos/laptop_images.jpg" height=300></a>
 </div>
                                                                                               
 My work during my [bootcamp](https://github.com/naturesbless/SpringboardMay2022):
