@@ -1,26 +1,37 @@
 <style>
+  .image {
+  display: grid;
+  place-items: center;
+  }
+  
   h1 {
   color: green;
-  }
+ }
 </style>
+
 <h1> Welcome! </h1>
 Thank you for your patience as I build up my data science portfolio on this website!
 
 I have a second portfolio page focusing on my [Python projects](https://naturesbless.github.io/100_Days_Python_Portfolio/). It is more focused on general python concepts:
+<div class=image>
 <a href="https://naturesbless.github.io/100_Days_Python_Portfolio/"><img src="photos/Python-logo-notext.svg.png" width=200 height=200></a>
-
-
+</div>
 My project on Time Series Analysis for tourism and accomodations data in [New Zealand](https://github.com/naturesbless/Tourism-Forecasting):
+
+<div class=image>
 <a href="https://github.com/naturesbless/Tourism-Forecasting"><img src="photos/new_zealand_banner.png" height=200></a>
+</div>
 
 My project on laptop pricing models can be found [here](https://github.com/naturesbless/LaptopPriceModeling):
-<a href="https://github.com/naturesbless/LaptopPriceModeling><img src="photos/laptop_images.jpg" width=200 height=200></a>
 
+<div class=image>
+<a href="https://github.com/naturesbless/LaptopPriceModeling"><img src="photos/laptop_images.jpg" height=250></a>
+</div>
+                                                                                              
 My work during my [bootcamp](https://github.com/naturesbless/SpringboardMay2022):
-<a href="https://github.com/naturesbless/SpringboardMay2022><img src="photos/Springboard-logo-dark.jpg" height=200></a>
-
-
-
+<div class=image>
+<a href="https://github.com/naturesbless/SpringboardMay2022"><img src="photos/Springboard-logo-dark.jpg" height=200></a>
+</div>
 
 <!-- ### Markdown
 
