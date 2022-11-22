@@ -1,6 +1,6 @@
 <style>
   .image {
-  display: grid;
+  display: flex;
   place-items: center;
   }
   
