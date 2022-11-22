@@ -11,13 +11,13 @@ I have a second portfolio page focusing on my [Python projects](https://naturesb
 
 
 My project on Time Series Analysis for tourism and accomodations data in [New Zealand](https://github.com/naturesbless/Tourism-Forecasting):
-<img src="/photos/new_zealand_banner.png height=200">(https://github.com/naturesbless/Tourism-Forecasting){:target="_blank"}
+<img src="photos/new_zealand_banner.png height=200">(https://github.com/naturesbless/Tourism-Forecasting){:target="_blank"}
 
 My project on laptop pricing models can be found [here](https://github.com/naturesbless/LaptopPriceModeling):
-<img src="/photos/laptop_images.jpg width=200 height=200" >(https://github.com/naturesbless/LaptopPriceModeling){:target="_blank"}
+<img src="photos/laptop_images.jpg width=200 height=200" >(https://github.com/naturesbless/LaptopPriceModeling){:target="_blank"}
 
 My work during my [bootcamp](https://github.com/naturesbless/SpringboardMay2022):
-<img src="/photos/Springboard-logo-dark.jpg height=200">(https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}
+<img src="photos/Springboard-logo-dark.jpg height=200">(https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}
 
 
 
