@@ -18,25 +18,25 @@
 <h1> Welcome! </h1>
 Thank you for your patience as I build up my data science portfolio on this website!
 
-I have a second portfolio page focusing on my [Python projects](https://naturesbless.github.io/100_Days_Python_Portfolio/){:target="_blank"}. It is more focused on general python concepts:
+I have a second portfolio page focusing on my [Python projects](https://lutimoth.github.io/100_Days_Python_Portfolio/){:target="_blank"}. It is more focused on general python concepts:
 <div class=image>
-<a href="https://naturesbless.github.io/100_Days_Python_Portfolio/" target="_blank"><img src="photos/Python-logo-notext.svg.png"></a>
+<a href="https://lutimoth.github.io/100_Days_Python_Portfolio/" target="_blank"><img src="photos/Python-logo-notext.svg.png"></a>
 </div>
-My project on Time Series Analysis for tourism and accomodations data in [New Zealand](https://github.com/naturesbless/Tourism-Forecasting){:target="_blank"}:
+My project on Time Series Analysis for tourism and accomodations data in [New Zealand](https://github.com/lutimoth/Tourism-Forecasting){:target="_blank"}:
 
 <div class=image>
-<a href="https://github.com/naturesbless/Tourism-Forecasting" target="_blank"><img src="photos/new_zealand_banner.png"></a>
+<a href="https://github.com/lutimoth/Tourism-Forecasting" target="_blank"><img src="photos/new_zealand_banner.png"></a>
 </div>
 
-My project on laptop pricing models can be found [here](https://github.com/naturesbless/LaptopPriceModeling){:target="_blank"}:
+My project on laptop pricing models can be found [here](https://github.com/lutimoth/LaptopPriceModeling){:target="_blank"}:
 
 <div class=image>
-<a href="https://github.com/naturesbless/LaptopPriceModeling" target="_blank"><img src="photos/laptop_images.jpg"></a>
+<a href="https://github.com/lutimoth/LaptopPriceModeling" target="_blank"><img src="photos/laptop_images.jpg"></a>
 </div>
                                                                                               
-My work during my [bootcamp](https://github.com/naturesbless/SpringboardMay2022){:target="_blank"}:
+My work during my [bootcamp](https://github.com/lutimoth/SpringboardMay2022){:target="_blank"}:
 <div class=image>
-<a href="https://github.com/naturesbless/SpringboardMay2022" target="_blank"><img src="photos/Springboard-logo-dark.jpg"></a>
+<a href="https://github.com/lutimoth/SpringboardMay2022" target="_blank"><img src="photos/Springboard-logo-dark.jpg"></a>
 </div>
 
 <!-- ### Markdown
