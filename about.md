@@ -9,7 +9,6 @@ Currently, this website is being built and will eventually feature my projects. 
 ## Skills
 | Programing                        | Machine Learning     | Mathematics and Business Analytics |
 |-----------------------------------|----------------------|------------------------------------|
-
 |Python (pandas, numpy, sk-learn)   | Linear Regression    | Customer Segmentation              |
 |SQL (Postgres, MySQL)              | Logistic Regression  | Statistical Analysis               |
 |R                                  | Neural Networks      | A/B Testing                        |
