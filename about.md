@@ -1,3 +1,7 @@
+---
+layout: archive
+---
+
 # ABOUT ME
 
 My name is Timothy Lu.

@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - General
-link: https://naturesbless.github.io/blog/introduction/
+link: https://lutimoth.github.io/blog/introduction/
 
 ---
 
