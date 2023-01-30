@@ -1,8 +1,7 @@
 ---
 layout: archive
+title: About Me
 ---
-
-# ABOUT ME
 
 My name is Timothy Lu.
 I am a data scientist with an interest in implementing Machine Learning Algorithms for analysis into solving business problems. I love the creativity involved in utilizing data to solve busines problems and creating beautiful visualizations to share those findings.
