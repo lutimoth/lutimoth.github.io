@@ -32,7 +32,8 @@ body {
 
 .home-column-container {
   display: flex;
-  width: auto;
+  padding: 10px;
+  align-self: flex-start;
 }
 
 // .home-column-one {
