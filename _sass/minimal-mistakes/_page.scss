@@ -30,6 +30,19 @@ body {
           flex-direction: column;
 }
 
+.home-column-container {
+  display: flex;
+
+}
+
+.home-column-one {
+  background-color: red;
+}
+
+.home-column-two {
+  background-color: green;
+}
+
 .initial-content,
 .search-content {
   flex: 1 0 auto;
