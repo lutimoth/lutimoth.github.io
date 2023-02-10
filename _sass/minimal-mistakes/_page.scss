@@ -34,6 +34,10 @@ body {
   display: flex;
   padding: 10px;
   align-self: flex-start;
+
+  @include breakpoint(large) {
+    justify-content: space-between;
+  }
 }
 
 // .home-column-one {
