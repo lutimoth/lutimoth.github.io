@@ -34,9 +34,13 @@ body {
   display: flex;
   padding: 10px;
   align-self: flex-start;
+  flex-direction: column;
+  gap: 12px;
 
   @include breakpoint(large) {
     justify-content: space-between;
+    flex-direction: row;
+    gap: 0;
   }
 }
 
