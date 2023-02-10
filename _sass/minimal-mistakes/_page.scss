@@ -37,7 +37,7 @@ body {
   flex-direction: column;
   gap: 12px;
 
-  @include breakpoint(large) {
+  @include breakpoint($large) {
     justify-content: space-between;
     flex-direction: row;
     gap: 0;
