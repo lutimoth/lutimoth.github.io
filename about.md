@@ -25,9 +25,13 @@ Currently, this website is being built and will eventually feature my projects. 
 
 ## Projects
 I have worked on the following projects:
-- [Laptop Regression Analysis](https://github.com/naturesbless/LaptopPriceModeling){:target="_blank"}
-- [Forecasting Tourism and Accomodations Data for New Zealand](https://github.com/naturesbless/Tourism-Forecasting){:target="_blank"}
+- <a href="https://github.com/naturesbless/LaptopPriceModeling" target="_blank">Laptop Regression Analysis</a>
+- <a href="https://github.com/naturesbless/Tourism-Forecasting" target="_blank">Forecasting Tourism and Accomodations Data for New Zealand</a>
 - More to come!
+
+## Medium Articles
+- <a href="https://heartbeat.comet.ml/problem-solving-code-as-a-data-scientist-e8637197124" target="_blank">Problem-Solving Code as Data Scientist</a>
+- <a href="https://heartbeat.comet.ml/a-detailed-beginners-guide-to-keras-tuner-45706c520973" target="_blank">Detailed Beginner's Guide to Keras Tuner</a>
 
 ## Contact Info
 Please contact me at the following email for business inquiries: lutimoth@gmail.com
